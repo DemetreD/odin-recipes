@@ -1,0 +1,21 @@
+body {
+    border: 2px solid darkred;
+    width: min-content;
+    padding: 0 10px;
+    margin: 10px auto;
+}
+.paragraph {
+    line-height: 1.3;
+    font-size: 17px;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin: 10px 0;
+}
+.subHeadings,
+h1 {
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+
+}
