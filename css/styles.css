@@ -1,8 +1,9 @@
-body {
+.cont {
     border: 2px solid darkred;
-    width: min-content;
+    width: 800px;
     padding: 0 10px;
     margin: 10px auto;
+    padding: 20px;
 }
 .paragraph {
     line-height: 1.3;
