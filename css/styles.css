@@ -1,6 +1,6 @@
 .cont {
     border: 2px solid darkred;
-    width: 800px;
+    width: min-content;
     padding: 0 10px;
     margin: 10px auto;
     padding: 20px;
